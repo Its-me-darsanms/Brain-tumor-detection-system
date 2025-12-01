@@ -1,4 +1,4 @@
-#Brain Tumor Detection System 🧠
+**Brain Tumor Detection System 🧠**
 
 A lightweight, Streamlit-based app that detects brain tumors in MRI scans using a YOLOv8 model.
 Upload an MRI image and the app will run YOLO detection, draw bounding boxes on regions of interest, and report confidence scores.
